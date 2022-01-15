@@ -1,0 +1,6 @@
+{
+"NETWORK_USER":"my_user",
+"NETWORK_PASS":"my_password",
+"NETBOX_DOMAIN" : "https://192.168.3.253/",
+"NETBOX_TOKEN" : "my_netbox_token"
+}
